@@ -1,4 +1,4 @@
-module v5sdk_go
+module github.com/yu8200/OKEX_V5SDK_GO
 
 go 1.15
 
